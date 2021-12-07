@@ -13,6 +13,7 @@
         },
         {
           "continent": "Asie",
+          "clothes": "skirt",
           "country": "Chine",
           "capital": "Pékin",
           "bool": "faux"

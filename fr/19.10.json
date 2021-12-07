@@ -1,0 +1,30 @@
+{
+  "earth": [
+    {
+      "name": "Mechanics",
+      "sections": [
+        {
+          "continent": "Europe",
+          "bool": true
+        },
+        {
+        },
+        {
+          "continent": "Africa"
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+        }
+      ]
+    }
+  ]
+}

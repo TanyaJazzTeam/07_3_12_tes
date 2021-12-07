@@ -1,0 +1,29 @@
+{
+  "earth": [
+    {
+      "continent": "L'Europe ",
+      "country": "La France",
+      "capital": "Paris"
+    },
+    {
+      "continent": "Asie",
+      "country": "Chine",
+      "capital": "Pékin"
+    },
+    {
+      "continent": "Afrique",
+      "country": "Afrique du Sud",
+      "capital": "Le Cap"
+    },
+    {
+      "continent": "Amérique du Nord",
+      "country": "Etats-Unis",
+      "capital": "Washington"
+    },
+    {
+      "continent": "Amérique du Sud",
+      "country": "Brésil",
+      "capital": "Brasilia"
+    }
+  ]
+}

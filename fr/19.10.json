@@ -1,0 +1,46 @@
+{
+  "earth": [
+    {
+      "name": "Mechanics",
+      "sections": [
+        {
+          "continent": "Europe",
+          "country": "La France",
+          "capital": "Paris",
+          "food": "Pizza",
+          "water": "melon",
+          "bool": true
+        },
+        {
+          "continent": "Asie",
+          "country": "Chine",
+          "capital": "Pékin",
+          "bool": "faux"
+        },
+        {
+          "continent": "Africa",
+          "country": "Afrique du Sud",
+          "capital": "Le Cap"
+        }
+      ]
+    },
+    {
+      "continent": "Amérique",
+      "sections": [
+        {
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0"
+        }
+      ]
+    },
+    {
+      "name": "Électricité",
+      "sections": [
+        {
+          "continent": "Amérique du Sud",
+          "country": "Brésil",
+          "capital": "Brasilia"
+        }
+      ]
+    }
+  ]
+}

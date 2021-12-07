@@ -9,8 +9,7 @@
               "country": "France",
               "capital": "Paris",
 	      "food": "pizza",
-	      "water": "melon",
-              "bool": true
+	      "bool": true
           },
           {
           	   "continent": "Asia",

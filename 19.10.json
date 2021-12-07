@@ -8,6 +8,8 @@
               "continent": "Europe",
               "country": "France",
               "capital": "Paris",
+	      "food": "pizza",
+	      "water": "melon",
               "bool": true
           },
           {
